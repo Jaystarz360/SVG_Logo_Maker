@@ -28,8 +28,9 @@ With user input, a custom logo will be created
 # Usage
 After installation, begin the app using 'node index.js'
 
-Video Walkthrough: 
-Testing Video Walkthrough:
+Video Walkthrough: https://drive.google.com/file/d/1clq9_kLNTZWnAjZ2zGqyl_RZiGRSi_KA/view?usp=drive_link
+
+Testing Video Walkthrough: https://drive.google.com/file/d/1clq9_kLNTZWnAjZ2zGqyl_RZiGRSi_KA/view?usp=drive_link
 
 ## License
 
