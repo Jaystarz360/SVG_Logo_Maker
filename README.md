@@ -31,11 +31,14 @@ After installation, begin the app using 'node index.js'
 Video Walkthrough: 
 Testing Video Walkthrough:
 
-# License
-This software is covered under the following license: MIT No Attribution License View license
+## License
+
+This software is covered under the following license:
+MIT No Attribution License
+[View license](https://opensource.org/license/mit-0/)
 
 # Tests
 Test cases are included in the 'Examples' folder
 
 # Questions
-GitHub: github.com/Jaystarz360
+[Jaystarz360 - Joshua Cherry](https://github.com/Jaystarz360)
